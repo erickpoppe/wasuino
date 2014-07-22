@@ -1,0 +1,9 @@
+{
+  "name": "arduinoNodeSocket",
+  "version": "0.0.1",
+  "description": "This is a Arduino based one",
+  "dependencies": {
+    "express": "^4.6.1",
+    "socket.io": "^1.0.6"
+  }
+}
